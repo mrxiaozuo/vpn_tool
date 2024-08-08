@@ -3,8 +3,8 @@
 #!openUrl = https://apps.apple.com/app/id670910957
 #!author = suiyuran androidcn
 #!keyword = suiyuran, androidcn
-#!homepage = https://gitlab.com/lodepuly/vpn_tool/-/blob/master/README.md
-#!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/VVebo.png
+#!homepage = https://github.com/luestr/ProxyResource/blob/main/README.md
+#!icon = https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/VVebo.png
 #!date = 2024-01-19 22:25:07
 
 [Script]
